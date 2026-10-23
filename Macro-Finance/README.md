@@ -4,7 +4,7 @@
 - **Programme:** Master in Financial Engineering
 - **Course:** Macro Finance
 - **Professor:** LEONARDO IANIA
-- **Year:** 2026-2027 (M1)
+- **Year:** 2025-2026 (M1)
 - **Author:** Nicolas Poncin
 
 ## Overview
