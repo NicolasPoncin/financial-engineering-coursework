@@ -4,7 +4,7 @@
 - **Program:** Summer University
 - **Course:** Advanced Portfolio Management
 - **Professor:** Javier Gil-Bazo
-- **Assistant:**
+- **Assistant:** Carlo Pavanello
 - **Year:** 2026
 - **Author:** Nicolas Poncin
 
