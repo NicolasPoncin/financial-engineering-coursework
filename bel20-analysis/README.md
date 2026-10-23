@@ -3,7 +3,7 @@
 - **Programme:** Master in Financial Engineering
 - **Course:** Technological Project - Operation research
 - **Professor:** Mathieu Van Vyve
-- **Year:** 2026-2027 (M1)
+- **Year:** 2025-2026 (M1)
 - **Author:** Nicolas Poncin
 
 ## Description
