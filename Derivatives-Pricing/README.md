@@ -42,8 +42,8 @@ Under the assumptions considered in the project, the absolute payoff provides a 
 ## Repository Content
 
 - `report.pdf`: final project report.
-- `Derivatives_Pricing_code.ipynb`: Python notebook containing the pricing, sensitivity and hedging analyses.
-- `extension.ipynb`: Python notebook proposing an extension of the work.
+- `Derivatives_Pricing_code.ipynb`: Python notebook handed to the professor containing the pricing, sensitivity and hedging analyses as well as stylised plots. 
+- `extension.ipynb`: Python notebook proposing an extension of the work. 
 
 ## Contribution
 
