@@ -5,7 +5,7 @@
 - **Course:** Advanced Portfolio Management
 - **Professor:** Javier Gil-Bazo
 - **Assistant:** Carlo Pavanello
-- **Year:** 2026
+- **Year:** 2025
 - **Author:** Nicolas Poncin
 
 ## Overview
